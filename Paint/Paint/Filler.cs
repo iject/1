@@ -17,7 +17,7 @@ namespace Paint
         {
             New_color = new_color;
             bm = _bm;
-            Old_color = bm.GetPixel(e.X, e.Y);
+            Old_color = bm.GetPixel(e.X+5, e.Y+5);
             E = e;
         }
         public void Fill()
