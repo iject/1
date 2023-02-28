@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ПК\\.nuget\\packages\\": {}
+    "C:\\Users\\ruvmakarov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПК\\Desktop\\My\\Учёба\\Окн\\Дз\\Paint\\Paint\\Paint.csproj",
+      "projectUniqueName": "C:\\Users\\ruvmakarov\\Source\\Repos\\1\\Paint\\Paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "C:\\Users\\ПК\\Desktop\\My\\Учёба\\Окн\\Дз\\Paint\\Paint\\Paint.csproj",
-      "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПК\\Desktop\\My\\Учёба\\Окн\\Дз\\Paint\\Paint\\obj\\",
+      "projectPath": "C:\\Users\\ruvmakarov\\Source\\Repos\\1\\Paint\\Paint\\Paint.csproj",
+      "packagesPath": "C:\\Users\\ruvmakarov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ruvmakarov\\Source\\Repos\\1\\Paint\\Paint\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ruvmakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200-preview.22628.1\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
